@@ -24,3 +24,8 @@ Encryption and Decryption: Secure-Pass employs strong encryption and decryption 
 **Backend:** The backend is powered by Node JS, which handles data processing, encryption, and decryption operations.
 
 **Database:** Secure-Pass uses MySQL as its database management system for efficient data storage and retrieval.
+
+# Screenshot of project
+![image1](https://github.com/shreedhar19oct/password-manager/assets/73355893/bb2d126f-8ce4-495b-8763-3547dc90d593)
+![image2](https://github.com/shreedhar19oct/password-manager/assets/73355893/0a791297-257c-4ad7-a915-3f8725ae0c01)
+![image3](https://github.com/shreedhar19oct/password-manager/assets/73355893/f8216eb4-6d63-4e40-8f33-4484e526fcd3)
