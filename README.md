@@ -4,7 +4,7 @@ Secure-Pass is a robust and secure password manager application designed to prov
 
 ## Features
 **Password Storage**: Store all your passwords securely in one place, eliminating the need to remember multiple passwords.
-Encryption and Decryption: Secure-Pass employs strong encryption and decryption techniques to ensure that your stored passwords remain private and confidential.
+Encryption and Decryption: Secure-Pass employs strong encryption and decryption techniques to ensure that your stored passwords remain private and confidential.<br>
 **User-Friendly Interface**: The application offers an intuitive and user-friendly interface that makes it easy to add, edit, and delete passwords.
 **Search Functionality**: Quickly locate specific passwords using the search feature, saving you time and effort.
 **Password Generator**: Generate strong and complex passwords to enhance your online security.
