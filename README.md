@@ -19,6 +19,8 @@ Encryption and Decryption: Secure-Pass employs strong encryption and decryption 
 **Multi-Tier Security**: Secure-Pass ensures that only authorized users can access the stored passwords, adding an extra layer of security.
 
 ## Tech Stack
-Frontend: Built using React JS, the frontend offers a responsive and interactive user interface for seamless user experience.
-Backend: The backend is powered by Node JS, which handles data processing, encryption, and decryption operations.
-Database: Secure-Pass uses MySQL as its database management system for efficient data storage and retrieval.
+**Frontend:** Built using React JS, the frontend offers a responsive and interactive user interface for a seamless user experience.
+
+**Backend:** The backend is powered by Node JS, which handles data processing, encryption, and decryption operations.
+
+**Database:** Secure-Pass uses MySQL as its database management system for efficient data storage and retrieval.
